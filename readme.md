@@ -22,5 +22,6 @@ The main idea behind this project is to dive into day to day activities a Data E
 
 ### Architecture:
 
-![image](https://user-images.githubusercontent.com/56924033/183524296-a320fd12-6cbc-485a-be3e-2f24db461b24.png)
+![image](https://user-images.githubusercontent.com/56924033/183524448-52c5b4e8-1b1d-40f3-aff4-ba57c7a6a604.png)
+
 
